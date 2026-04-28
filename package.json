@@ -15,11 +15,12 @@
     "lucide-react": "latest",
     "class-variance-authority": "latest",
     "clsx": "latest",
-    "tailwind-merge": "3.4.17"
+    
   },
   "devDependencies": {
     "typescript": "latest",
    "tailwindcss": "3.4.17",
+"tailwind-merge": "2.6.0",
 "postcss": "8.4.49",
 "autoprefixer": "10.4.20"
   }
